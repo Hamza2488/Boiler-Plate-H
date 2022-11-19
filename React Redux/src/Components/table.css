@@ -1,0 +1,15 @@
+Table{
+    /* display: flex;. */
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 900px;
+    margin:1rem auto;
+}
+.table{
+}
+thead{
+    color: red;
+}
+th, td{
+    border: 2px solid black;
+}
